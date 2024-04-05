@@ -1,2 +1,2 @@
 # Jogo-da-velha
-Projeto com a finalidade de práticar os conhecimentos na linguagem de programação python
+Criação de um jogo chamado jogo da velha para colocar em prática os conhecimentos adquiridos ao estudar a linguagem de programação Python
